@@ -1,0 +1,53 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	font-family:"Trebuchet MS", "Myriad Pro", Arial, sans-serif;
+	font-size:14px;
+	background:#f4f4f4 url(webtreats-paper-pattern-6-grey.jpg) repeat top left;
+	color:#333;
+	text-shadow:1px 1px 1px #fff;
+}
+h1{
+	font-size:56px;
+}
+h2{
+	font-size:26px;
+	padding:10px 0px 10px 0px;
+	margin-top:20px;
+}
+a{
+	color:#777;
+}
+a:hover{
+	color:#222;
+}
+p{
+	padding:5px 0px;
+}
+.wrapper{
+	width:960px;
+	margin:20px auto;
+}
+.box{
+	width:49%;
+}
+.left{
+	float:left;
+}
+.right{
+	float:right;
+}
+.clear{
+	clear:both;
+}
+.footer{
+	text-align:center;
+	width:100%;
+	color:#fff;
+	padding:20px 0px;
+	clear:both;
+	background:#000;
+	margin-top:30px;
+}
